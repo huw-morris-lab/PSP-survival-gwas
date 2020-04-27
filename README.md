@@ -1,2 +1,2 @@
 # PSP-survival-gwas
-Edwin Jabbari code for PSP survival GWAS
+PSP survival GWAS script written by Edwin Jabbari and Maryam Shoai.
